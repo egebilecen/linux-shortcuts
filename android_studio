@@ -1,0 +1,2 @@
+# /usr/bin/sh
+sh ~/android-studio/bin/studio.sh > /dev/null &

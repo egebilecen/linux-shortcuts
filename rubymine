@@ -1,0 +1,1 @@
+sh ~/RubyMine-2017.2.1/bin/rubymine.sh $1 &
