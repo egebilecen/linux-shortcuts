@@ -1,0 +1,2 @@
+# /bin/bash/bash
+TexturePacker --gui > /dev/null &
