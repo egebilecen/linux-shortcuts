@@ -1,0 +1,1 @@
+sh ~/idea-IU-172.4574.11/bin/idea.sh $1 > /dev/null &
